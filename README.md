@@ -50,6 +50,3 @@ Open a notebook and run its cells in order. Use the notebook's folder as the wor
 - [Car price analysis and prediction](https://github.com/Mohamedrashid117/car-price-prediction)
 - [Hotel booking cancellation analysis](https://github.com/Mohamedrashid117/hotel-booking-cancellation)
 
-## Maintaining this portfolio
-
-[Step-by-step GitHub guide](docs/PORTFOLIO_GUIDE.md) · [Ready-to-copy profile README](docs/profile-README.md)
