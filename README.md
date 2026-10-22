@@ -47,6 +47,6 @@ Open a notebook and run its cells in order. Use the notebook's folder as the wor
 
 ## More projects
 
-- [Car price analysis and prediction](https://github.com/Mohamedrashid117/car-price-prediction)
-- [Hotel booking cancellation analysis](https://github.com/Mohamedrashid117/hotel-booking-cancellation)
+- [Car price analysis and prediction](https://github.com/Mohamedrashid117/car-price-analysis-and-prediction)
+- [Hotel booking cancellation analysis](https://github.com/Mohamedrashid117/hotel-booking-cancellation-analysis)
 
